@@ -1,6 +1,6 @@
 # SimuladorTrafico
 
-### Autor: Pablo Agudo Brun. Universidad Complutense de Madrid.
+### Autores: Manuel Monforte Escobar y Pablo Agudo Brun. Universidad Complutense de Madrid.
 
 Proyecto de Tecnología de la Programación de la Universidad Complutense de Madrid (UCM)
 
